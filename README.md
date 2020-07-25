@@ -30,3 +30,7 @@ smooth.py
 1d and 2d gaussian function with or without cutoff acceleration method is implemented. it is suitable for ALL data that does not exceeds two dimensions, which is aim to improve
 visual experience at the beginning.
 Fermi-dirac function can not work normally till now, I will check.
+
+%Recent plan
+I will implement FFT to accelerate diffraction module, and maybe in some day I will integrate all them together, yielding a home-made simulation package.
+:) Haha...
